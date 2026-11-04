@@ -1,0 +1,25 @@
+﻿Embarque;Proveedor;Incoterm;Puerto origen;ETD;ETA;Arribo real;Flete USD;Seguro USD;Gastos locales ARS
+SHP-2026-001;Shenzhen Brightway Electronics Co., Ltd.;FOB;Shenzhen;21/01/2026;04/03/2026;04/03/2026;1.468,46;106,09;745.000,00
+SHP-2026-002;Austin Circuit Supply Inc.;FOB;Houston;21/01/2026;14/02/2026;25/02/2026;1.459,82;51,15;520.000,00
+SHP-2026-003;Shenzhen Brightway Electronics Co., Ltd.;FOB;Shenzhen;07/02/2026;21/03/2026;24/03/2026;2.619,28;232,50;520.000,00
+SHP-2026-004;Shenzhen Brightway Electronics Co., Ltd.;FOB;Shenzhen;21/08/2026;02/10/2026;02/10/2026;2.680,00;190,16;380.000,00
+SHP-2026-005;Ningbo Harbor Plastics Co Ltd;FOB;Ningbo;13/08/2026;24/09/2026;22/09/2026;1.470,23;98,02;380.000,00
+SHP-2026-006;Austin Circuit Supply Inc.;FOB;Houston;21/05/2026;14/06/2026;13/06/2026;3.424,80;103,97;380.000,00
+SHP-2026-007;Shenzhen Brightway Electronics Co., Ltd.;FOB;Shenzhen;08/07/2026;19/08/2026;30/08/2026;2.170,37;177,39;380.000,00
+SHP-2026-008;Dongguan Everlight Components;FOB;Shenzhen;27/08/2026;08/10/2026;08/10/2026;2.615,35;125,85;745.000,00
+SHP-2026-009;Ningbo Harbor Plastics Co Ltd;CIF;Ningbo;23/03/2026;04/05/2026;15/05/2026;0,00;0,00;380.000,00
+SHP-2026-010;Dongguan Everlight Components;FOB;Shenzhen;20/01/2026;03/03/2026;21/03/2026;2.940,01;89,31;520.000,00
+SHP-2026-011;Ningbo Harbor Plastics Co Ltd;CIF;Ningbo;08/02/2026;22/03/2026;21/03/2026;0,00;0,00;380.000,00
+SHP-2026-012;Shenzhen Brightway Electronics Co., Ltd.;FOB;Shenzhen;08/05/2026;19/06/2026;30/06/2026;3.246,35;139,21;380.000,00
+SHP-2026-013;Milano Precision S.r.l.;FOB;Genova;15/01/2026;12/02/2026;15/02/2026;2.844,74;72,09;380.000,00
+SHP-2026-014;Shenzhen Brightway Electronics Co., Ltd.;FOB;Shenzhen;13/06/2026;25/07/2026;31/07/2026;2.405,19;124,76;380.000,00
+SHP-2026-015;Austin Circuit Supply Inc.;FOB;Houston;04/02/2026;28/02/2026;03/03/2026;1.722,06;98,35;380.000,00
+SHP-2026-016;Shenzhen Brightway Electronics Co., Ltd.;FOB;Shenzhen;12/05/2026;23/06/2026;11/07/2026;2.039,28;84,61;745.000,00
+SHP-2026-017;Dongguan Everlight Components;FOB;Shenzhen;20/06/2026;01/08/2026;12/08/2026;3.253,87;186,51;380.000,00
+SHP-2026-018;Shenzhen Brightway Electronics Co., Ltd.;FOB;Shenzhen;26/06/2026;07/08/2026;10/08/2026;1.190,87;62,34;745.000,00
+SHP-2026-019;Ningbo Harbor Plastics Co Ltd;FOB;Ningbo;03/06/2026;15/07/2026;13/07/2026;1.366,34;98,37;520.000,00
+SHP-2026-020;Milano Precision S.r.l.;FOB;Genova;08/08/2026;05/09/2026;05/09/2026;3.033,39;72,71;380.000,00
+SHP-2026-021;Ningbo Harbor Plastics Co Ltd;CIF;Ningbo;21/01/2026;04/03/2026;04/03/2026;0,00;0,00;520.000,00
+SHP-2026-022;Dongguan Everlight Components;FOB;Shenzhen;06/05/2026;17/06/2026;05/07/2026;2.633,92;160,38;520.000,00
+SHP-2026-023;Milano Precision S.r.l.;FOB;Genova;12/07/2026;09/08/2026;09/08/2026;1.645,98;105,75;520.000,00
+SHP-2026-024;Austin Circuit Supply Inc.;CIF;Houston;19/06/2026;13/07/2026;;0,00;0,00;380.000,00
