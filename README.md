@@ -1,5 +1,7 @@
 # comex-etl
 
+[![test](https://github.com/e-ibarra/comex-etl/actions/workflows/test.yml/badge.svg)](https://github.com/e-ibarra/comex-etl/actions/workflows/test.yml)
+
 **Turn the messy exports an import analyst lives in into one clean table of landed cost per SKU, a SQL database and an Excel report.**
 
 Python · pandas · SQL (SQLite) · pytest · GitHub Actions
